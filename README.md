@@ -30,7 +30,7 @@ Telecommunication_Churn_Model/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/telecom-churn-prediction.git
+   git clone https://github.com/E-Macharia/telecom-churn-prediction.git
    cd telecom-churn-prediction
    ```
 
